@@ -15,3 +15,4 @@ Event ID 1: To see which process or program was opened
 Event ID 3: To see the network connection details
 Event IDs 12, 13, 14: To check if there is any change in the Windows Registry.
 My Goal: This is my first lab session alone. I'm trying to learn how the attack traffic looks like and how to find it
+![Brute Force Evidence](final%20result.png)
